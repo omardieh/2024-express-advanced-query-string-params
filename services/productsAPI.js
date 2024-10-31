@@ -1,5 +1,4 @@
 const axios = require("axios");
-
 const baseURL = "https://fakestoreapi.com";
 
 function useProductsAPI() {
